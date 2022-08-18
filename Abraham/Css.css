@@ -1,0 +1,75 @@
+.container {
+    width: 400px;
+    height: 100px;
+}
+
+.containerImages {
+    width: 400px;
+    height: 420px;
+    position: absolute;
+    /*border: 5px solid #ff0000;*/
+}
+
+.imagePedidos {
+    width: 200px;
+    height: 220px;
+    position: absolute;
+    right: 72%;
+    border: 5px solid #000000;
+}
+
+.imageUbicaciones {
+    width: 210px;
+    height: 220px;
+    position: absolute;
+    right: 52%;
+    border: 5px solid #000000;
+}
+
+.imageConfi {
+    width: 210px;
+    height: 220px;
+    position: absolute;
+    right: 33%;
+    border: 5px solid #000000;
+}
+
+.imageFAQ {
+    width: 200px;
+    height: 220px;
+    position: absolute;
+    right: 13%;
+    border: 5px solid #000000;
+}
+
+.contenedorA {
+    width: 200px;
+    height: 220px;
+    position: absolute;
+    right: 72%;
+    
+}
+
+.contenedorB {
+    width: 210px;
+    height: 220px;
+    position: absolute;
+    right: 52%;
+    
+}
+
+.contenedorC {
+    width: 210px;
+    height: 220px;
+    position: absolute;
+    right: 33%;
+    
+}
+
+.contenedorD {
+    width: 200px;
+    height: 220px;
+    position: absolute;
+    right: 13%;
+   
+}
